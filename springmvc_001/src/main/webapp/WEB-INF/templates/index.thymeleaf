@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf/org">
+    <head>
+        <title>SpringMVC Home</title>
+    </head>
+    <body>
+        <h1>Home Page</h1>
+        <a th:href="@{/first}">first</a>
+        <br>
+        <a th:href="@{/second}">second</a>
+    </body>
+</html>

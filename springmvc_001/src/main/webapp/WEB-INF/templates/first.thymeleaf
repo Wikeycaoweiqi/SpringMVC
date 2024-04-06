@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>First SpringMVC</title>
+    </head>
+    <body>
+        <h1>First SpringMVC!</h1>
+    </body>
+</html>

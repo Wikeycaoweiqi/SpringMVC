@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf/org">
+    <head>
+        <title>Second SpringMVC</title>
+    </head>
+    <body>
+        <h1>Second SpringMVC!</h1>
+    </body>
+</html>
