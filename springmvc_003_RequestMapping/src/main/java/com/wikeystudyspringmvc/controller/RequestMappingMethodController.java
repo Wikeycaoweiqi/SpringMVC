@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  */
 @Controller
 @RequestMapping(value = "requestmethod/")
-public class RequestMethodController {
+public class RequestMappingMethodController {
     @RequestMapping(value = "login", method = RequestMethod.POST)
     public String requestMethod() {
         System.out.println("requestMethod...");
