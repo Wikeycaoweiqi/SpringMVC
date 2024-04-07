@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc_001" />
-        <module name="springmvc_002" />
         <module name="springmvc_003_RequestMapping" />
+        <module name="springmvc_004_GetRequestParams" />
+        <module name="springmvc_002" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

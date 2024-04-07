@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/springmvc_002/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc_003/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc_003_RequestMapping/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc_004_GetRequestParams/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
