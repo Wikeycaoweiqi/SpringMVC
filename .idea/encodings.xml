@@ -11,5 +11,13 @@
     <file url="file://$PROJECT_DIR$/springmvc_003_RequestMapping/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springmvc_004_GetRequestParams/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springmvc_004_GetRequestParams/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc_005_ForwardAndRedirect/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc_005_ForwardAndRedirect/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc_006_RESTFul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc_006_RESTFul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc_007_RESTFulDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc_007_RESTFulDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc_008_AjaxDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc_008_AjaxDemo/src/main/resources" charset="UTF-8" />
   </component>
 </project>
